@@ -43,7 +43,8 @@ Partial Class Perpustakaan
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.KoleksiToolStripMenuItem, Me.ArrayToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(941, 28)
+        Me.MenuStrip1.Padding = New System.Windows.Forms.Padding(5, 2, 0, 2)
+        Me.MenuStrip1.Size = New System.Drawing.Size(823, 24)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -51,28 +52,29 @@ Partial Class Perpustakaan
         '
         Me.KoleksiToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TambahKoleksiToolStripMenuItem})
         Me.KoleksiToolStripMenuItem.Name = "KoleksiToolStripMenuItem"
-        Me.KoleksiToolStripMenuItem.Size = New System.Drawing.Size(70, 24)
+        Me.KoleksiToolStripMenuItem.Size = New System.Drawing.Size(56, 20)
         Me.KoleksiToolStripMenuItem.Text = "Koleksi"
         '
         'TambahKoleksiToolStripMenuItem
         '
         Me.TambahKoleksiToolStripMenuItem.Name = "TambahKoleksiToolStripMenuItem"
-        Me.TambahKoleksiToolStripMenuItem.Size = New System.Drawing.Size(195, 26)
+        Me.TambahKoleksiToolStripMenuItem.Size = New System.Drawing.Size(156, 22)
         Me.TambahKoleksiToolStripMenuItem.Text = "Tambah Koleksi"
         '
         'ArrayToolStripMenuItem
         '
         Me.ArrayToolStripMenuItem.Name = "ArrayToolStripMenuItem"
-        Me.ArrayToolStripMenuItem.Size = New System.Drawing.Size(58, 24)
+        Me.ArrayToolStripMenuItem.Size = New System.Drawing.Size(47, 20)
         Me.ArrayToolStripMenuItem.Text = "Array"
         '
         'ListBoxKoleksi
         '
         Me.ListBoxKoleksi.FormattingEnabled = True
-        Me.ListBoxKoleksi.ItemHeight = 20
-        Me.ListBoxKoleksi.Location = New System.Drawing.Point(12, 72)
+        Me.ListBoxKoleksi.ItemHeight = 15
+        Me.ListBoxKoleksi.Location = New System.Drawing.Point(10, 54)
+        Me.ListBoxKoleksi.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.ListBoxKoleksi.Name = "ListBoxKoleksi"
-        Me.ListBoxKoleksi.Size = New System.Drawing.Size(473, 624)
+        Me.ListBoxKoleksi.Size = New System.Drawing.Size(414, 469)
         Me.ListBoxKoleksi.TabIndex = 1
         '
         'BtnTambahKoleksi
@@ -81,9 +83,10 @@ Partial Class Perpustakaan
         Me.BtnTambahKoleksi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.BtnTambahKoleksi.FlatAppearance.BorderSize = 0
         Me.BtnTambahKoleksi.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.BtnTambahKoleksi.Location = New System.Drawing.Point(10, 31)
+        Me.BtnTambahKoleksi.Location = New System.Drawing.Point(9, 23)
+        Me.BtnTambahKoleksi.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.BtnTambahKoleksi.Name = "BtnTambahKoleksi"
-        Me.BtnTambahKoleksi.Size = New System.Drawing.Size(33, 33)
+        Me.BtnTambahKoleksi.Size = New System.Drawing.Size(29, 25)
         Me.BtnTambahKoleksi.TabIndex = 2
         Me.BtnTambahKoleksi.UseVisualStyleBackColor = True
         '
@@ -93,35 +96,39 @@ Partial Class Perpustakaan
         Me.BtnHapusKoleksi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.BtnHapusKoleksi.FlatAppearance.BorderSize = 0
         Me.BtnHapusKoleksi.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.BtnHapusKoleksi.Location = New System.Drawing.Point(46, 31)
+        Me.BtnHapusKoleksi.Location = New System.Drawing.Point(40, 23)
+        Me.BtnHapusKoleksi.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.BtnHapusKoleksi.Name = "BtnHapusKoleksi"
-        Me.BtnHapusKoleksi.Size = New System.Drawing.Size(33, 33)
+        Me.BtnHapusKoleksi.Size = New System.Drawing.Size(29, 25)
         Me.BtnHapusKoleksi.TabIndex = 3
         Me.BtnHapusKoleksi.UseVisualStyleBackColor = True
         '
         'BtnRemove
         '
-        Me.BtnRemove.Location = New System.Drawing.Point(792, 710)
+        Me.BtnRemove.Location = New System.Drawing.Point(693, 532)
+        Me.BtnRemove.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.BtnRemove.Name = "BtnRemove"
-        Me.BtnRemove.Size = New System.Drawing.Size(137, 41)
+        Me.BtnRemove.Size = New System.Drawing.Size(120, 31)
         Me.BtnRemove.TabIndex = 7
         Me.BtnRemove.Text = "Remove"
         Me.BtnRemove.UseVisualStyleBackColor = True
         '
         'BtnSelect
         '
-        Me.BtnSelect.Location = New System.Drawing.Point(644, 710)
+        Me.BtnSelect.Location = New System.Drawing.Point(564, 532)
+        Me.BtnSelect.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.BtnSelect.Name = "BtnSelect"
-        Me.BtnSelect.Size = New System.Drawing.Size(137, 41)
+        Me.BtnSelect.Size = New System.Drawing.Size(120, 31)
         Me.BtnSelect.TabIndex = 8
         Me.BtnSelect.Text = "Select"
         Me.BtnSelect.UseVisualStyleBackColor = True
         '
         'BtnUpdate
         '
-        Me.BtnUpdate.Location = New System.Drawing.Point(496, 710)
+        Me.BtnUpdate.Location = New System.Drawing.Point(418, 532)
+        Me.BtnUpdate.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.BtnUpdate.Name = "BtnUpdate"
-        Me.BtnUpdate.Size = New System.Drawing.Size(137, 41)
+        Me.BtnUpdate.Size = New System.Drawing.Size(120, 31)
         Me.BtnUpdate.TabIndex = 9
         Me.BtnUpdate.Text = "Update"
         Me.BtnUpdate.UseVisualStyleBackColor = True
@@ -131,19 +138,20 @@ Partial Class Perpustakaan
         Me.DataGridKoleksi.AllowUserToAddRows = False
         Me.DataGridKoleksi.AllowUserToDeleteRows = False
         Me.DataGridKoleksi.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridKoleksi.Location = New System.Drawing.Point(496, 72)
+        Me.DataGridKoleksi.Location = New System.Drawing.Point(434, 54)
+        Me.DataGridKoleksi.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.DataGridKoleksi.Name = "DataGridKoleksi"
         Me.DataGridKoleksi.ReadOnly = True
         Me.DataGridKoleksi.RowHeadersWidth = 51
         Me.DataGridKoleksi.RowTemplate.Height = 29
-        Me.DataGridKoleksi.Size = New System.Drawing.Size(433, 624)
+        Me.DataGridKoleksi.Size = New System.Drawing.Size(379, 468)
         Me.DataGridKoleksi.TabIndex = 10
         '
         'Perpustakaan
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(941, 764)
+        Me.ClientSize = New System.Drawing.Size(823, 573)
         Me.Controls.Add(Me.DataGridKoleksi)
         Me.Controls.Add(Me.BtnUpdate)
         Me.Controls.Add(Me.BtnSelect)
@@ -153,6 +161,7 @@ Partial Class Perpustakaan
         Me.Controls.Add(Me.ListBoxKoleksi)
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
+        Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "Perpustakaan"
         Me.Text = "Perpustakaan"
         Me.MenuStrip1.ResumeLayout(False)
