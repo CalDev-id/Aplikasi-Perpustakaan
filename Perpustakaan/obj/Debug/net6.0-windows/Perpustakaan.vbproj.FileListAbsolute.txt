@@ -1,0 +1,168 @@
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+C:\Users\PC\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Array.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Login.resources
+C:\Users\PC\Downloads\Vis_Tugas6_2107411007_Sandhi Karunia Sugihartana (3)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Register.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Array.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Login.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Register.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.UpdateKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CopyComplete
+C:\Users\PC\Downloads\Vis_Tugas7_2107411007_Sandhi Karunia Sugihartana\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusListKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Array.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusListKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Login.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Register.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.UpdateKoleksi.resources
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CopyComplete
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\PC\Downloads\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (1)\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Array.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusListKoleksi.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Login.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Register.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.UpdateKoleksi.resources
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CopyComplete
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\PC\Documents\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
